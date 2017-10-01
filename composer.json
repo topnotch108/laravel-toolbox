@@ -1,0 +1,30 @@
+{
+    "name": "guapp/laravel-toolbox",
+    "description": "Toolbox for Laravel applications",
+    "require": {
+        "illuminate/console": "~5.1",
+        "illuminate/contracts": "~5.1",
+        "illuminate/support": "~5.1"
+    },
+    "authors": [
+        {
+            "name": "Stefan Hess",
+            "email": "stefan@hess.space"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Guapp\\LaravelToolbox\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Guapp\\LaravelToolbox\\ToolboxServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
