@@ -3,8 +3,6 @@
 namespace Guapp\LaravelToolbox\Console;
 
 use Illuminate\Console\Command;
-use App\Models\User;
-use Symfony\Component\Process\Process;
 
 class DbConsoleCommand extends Command
 {

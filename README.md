@@ -4,13 +4,13 @@ Guapp Laravel Toolbox is a Swiss Army Knife for Laravel. It contains various use
 
 # Installation
 
-```composer require guapp/laravel-toolbox
-```
+``composer require guapp/laravel-toolbox
+``
 
 Add the following line to the `providers` àrray in `config/app.php`
 
-```Guapp\LaravelToolbox\ToolboxServiceProvider::class,
-```
+``Guapp\LaravelToolbox\ToolboxServiceProvider::class,
+``
 
 # Artisan Commands
 

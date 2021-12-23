@@ -2,9 +2,9 @@
     "name": "guapp/laravel-toolbox",
     "description": "Toolbox for Laravel applications",
     "require": {
-        "illuminate/console": "~5.1",
-        "illuminate/contracts": "~5.1",
-        "illuminate/support": "~5.1"
+        "illuminate/console": "~8.77",
+        "illuminate/contracts": "~8.77",
+        "illuminate/support": "~8.77"
     },
     "authors": [
         {
