@@ -1,5 +1,5 @@
 {
-    "name": "guapp/laravel-toolbox",
+    "name": "topnotch108/laravel-toolbox",
     "description": "Toolbox for Laravel applications",
     "require": {
         "illuminate/console": "~8.77",
